@@ -1,0 +1,71 @@
+{
+  "images" : [
+    {
+      "filename" : "1242x2688.jpg",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1242x2688-1.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1242x2688-2.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "1242x2688-3.jpg",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "subtype" : "retina4"
+    },
+    {
+      "filename" : "1242x2688-4.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "filename" : "1242x2688-5.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "retina4"
+    },
+    {
+      "filename" : "1242x2688-6.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "filename" : "1242x2688-7.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "subtype" : "667h"
+    },
+    {
+      "filename" : "1242x2688-8.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "filename" : "1242x2688-9.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "filename" : "1242x2688-10.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
